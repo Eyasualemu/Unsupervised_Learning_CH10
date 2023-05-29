@@ -1,0 +1,31 @@
+commit 232b06fd6ac373441df10366594954aa5ccd6359
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sun May 28 23:48:56 2023 -0400
+
+    Update README.md
+    
+    Readme file update with screenshot
+
+commit 94e4d58c54e44bff62eaa0d22643a9b90b5a613c
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun May 28 23:40:27 2023 -0400
+
+    Read me file added
+
+commit 87a3a227949a8193431e8fa236c960c2a2a586e3
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sun May 28 22:51:17 2023 -0400
+
+    Update cluster and PCA
+
+commit e9a4c8db1b0a8ade1044c89ed6fcb6980059feeb
+Author: Eyasu Bekabil Alemu <EAlemu@schools.nyc.gov>
+Date:   Sat May 20 23:45:00 2023 -0400
+
+    Initial Code
+
+commit 9e53cb5658f393eb77edd9b0c5b056e28f3f77f3
+Author: Eyasualemu <44585226+Eyasualemu@users.noreply.github.com>
+Date:   Sat May 20 23:42:23 2023 -0400
+
+    Initial commit
